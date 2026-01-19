@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png">
-</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tran+Viet+Nhat+Tu!;" />
@@ -55,10 +53,10 @@ Web Developer • UI-Oriented • Personal Branding
 ---
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Tranvietnhattu/Tranvietnhattu/output/github-contribution-grid-snake.svg" />
+  <h2>🐍 My Contributions</h2>
+  <img src="https://raw.githubusercontent.com/Tranvietnhattu/Tranvietnhattu/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 <br/>
 
