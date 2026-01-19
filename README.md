@@ -39,7 +39,7 @@ Web Developer • UI-Oriented • Personal Branding
 ---
 
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-
+<img src="https://github.com/Tranvietnhattu/Tranvietnhattu/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 <br/>
 
 <div align="center">
@@ -47,24 +47,16 @@ Web Developer • UI-Oriented • Personal Branding
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,mongodb" /><br>
   <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,figma" />
 </div>
-
 <br/><br/>
-
 <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
-
 <br/>
-
 ---
-
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-
 <br/>
-
 <div align="center">
   <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvietnhattu&layout=compact&theme=react&hide_border=true" />
   <img width="440" src="https://github-readme-stats.vercel.app/api?username=Tranvietnhattu&show_icons=true&theme=react&hide_border=true" />
