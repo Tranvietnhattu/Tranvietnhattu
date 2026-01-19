@@ -37,11 +37,11 @@ Web Developer • UI-Oriented • Personal Branding
 </div>
 
 ---
-
+<p align="center">
+  <img src="https://github.com/Tranvietnhattu/Tranvietnhattu/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+</p>
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<img src="https://github.com/Tranvietnhattu/Tranvietnhattu/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 <br/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br>
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,mongodb" /><br>
