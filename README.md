@@ -38,8 +38,9 @@ Web Developer • UI-Oriented • Personal Branding
 
 ---
 <p align="center">
-  <img src="https://github.com/Tranvietnhattu/Tranvietnhattu/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
+
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
